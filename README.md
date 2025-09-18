@@ -33,109 +33,108 @@
 - 💬 Talk to me about frontend design, tech careers,✨ books, or startups  
 - 👯 Always open to collaborating on **fun web projects or hackathons**    
 
-
 <!-- Tech skill -->
 ## 🛠 Tech Stack
 
 > Tools and technologies I have worked with and am interested in  
 
 ### 👨‍💻 Programming Languages  
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="C++" />
       <br>C++
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="C" />
       <br>C
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="Python" />
       <br>Python
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=js" width="35" height="35" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java" />
       <br>Java
     </td>
   </tr>
 </table>  
 
 ### 📚 Libraries / Frameworks  
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React" />
       <br>React
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="40" alt="Pandas" />
+    <td align="center" width="70">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="35" height="35" alt="Pandas" />
       <br>Pandas
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="40" height="40" alt="NumPy" />
+    <td align="center" width="70">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="35" height="35" alt="NumPy" />
       <br>NumPy
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://matplotlib.org/stable/_static/logo2.svg" width="40" height="40" alt="Matplotlib" />
+    <td align="center" width="70">
+      <img src="https://matplotlib.org/stable/_static/logo2.svg" width="35" height="35" alt="Matplotlib" />
       <br>Matplotlib
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+    <td align="center" width="70">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35" alt="Seaborn" />
       <br>Seaborn
     </td>
   </tr>
 </table>  
 
 ### ⚡ Tools / Platforms  
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=git" width="35" height="35" alt="Git" />
       <br>Git
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" alt="Visual Studio" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="35" height="35" alt="Visual Studio" />
       <br>Visual Studio
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://jupyter.org/assets/nav_logo.svg" width="40" height="40" alt="Jupyter Notebook" />
+    <td align="center" width="70">
+      <img src="https://jupyter.org/assets/nav_logo.svg" width="35" height="35" alt="Jupyter Notebook" />
       <br>Jupyter
     </td>
   </tr>
 </table>  
 
 ### 📊 Data Visualization Tools  
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://img.icons8.com/color/452/ms-excel.png" width="40" height="40" alt="Excel" />
+    <td align="center" width="70">
+      <img src="https://img.icons8.com/color/452/ms-excel.png" width="35" height="35" alt="Excel" />
       <br>Excel
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau" />
+    <td align="center" width="70">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="35" height="35" alt="Tableau" />
       <br>Tableau
     </td>
   </tr>
 </table>  
 
 ### 🗄️ Databases  
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" style="width:90px; height:90px;">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=postgres" width="35" height="35" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
   </tr>

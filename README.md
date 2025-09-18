@@ -35,9 +35,6 @@
 
 <!-- Tech skill -->
 ## 🛠 Tech Stack
-
-> Tools and technologies I have worked with and am interested in  
-
 ### 👨‍💻 Programming Languages  
 <table style="table-layout: fixed; width: 100%;">
   <tr>

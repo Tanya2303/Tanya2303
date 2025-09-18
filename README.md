@@ -1,24 +1,10 @@
-<!--
-**Tanya2303/Tanya2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- my name -->
 <p align="center">
     <img width="80%" alt="Hello!! This is Tanya Raikwar" src="./assets/name1.png" />
   </a>
 </p>
 
+<!-- social medias -->
 <div align="center">
 <a href="https://www.linkedin.com/in/tanya2303/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -37,3 +23,12 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+<!-- about me -->
+### About Me:
+- 🎓 I'm **Tanya Raikwar**, a 4rd-year Computer Science and Engineering student from Bangalore, passionate about **Frontend Development** **Data Analytics**
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily: **HTML**, **CSS**, **JavaScript**, **React**  **python** **sql**
+- 📖 Currently exploring: **Data Analytics**, **DSA** 
+- 📝 I love simplifying complex tech concepts & explaining them like a story 📚  
+- 💬 Talk to me about frontend design, tech careers,✨ books, or startups  
+- 👯 Always open to collaborating on **fun web projects or hackathons**    

@@ -136,3 +136,17 @@
     </td>
   </tr>
 </table>
+
+<!-- streak -->
+<div align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanya2303" />
+</div>
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Tanya2303&show_icons=true&theme=transparent" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya2303&layout=compact&theme=transparent" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake.svg">
+</picture>

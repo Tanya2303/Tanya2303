@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img width="80%" alt="Hello!! This is Tanya Raikwar" src="./assets/name.png" />
+    <img width="80%" alt="Hello!! This is Tanya Raikwar" src="./assets/name1.png" />
   </a>
 </p>

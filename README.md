@@ -1,6 +1,6 @@
 <!-- my name -->
 <p align="center">
-    <img width="80%" alt="Hello!! This is Tanya Raikwar" src="./assets/name1.png" />
+    <img width="100%" alt="Hello!! This is Tanya Raikwar" src="./assets/name1.png" />
   </a>
 </p>
 
@@ -103,7 +103,7 @@
       <br>Visual Studio
     </td>
     <td align="center" width="70">
-      <img src="https://jupyter.org/assets/nav_logo.svg" width="35" height="35" alt="Jupyter Notebook" />
+      <img src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png?raw=true" width="35" height="35" alt="Jupyter Notebook"/>
       <br>Jupyter
     </td>
   </tr>
@@ -146,7 +146,9 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya2303&layout=compact&theme=transparent" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake.svg">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake.svg"> -->
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanya2303/Tanya2303/output/github-contribution-grid-snake.svg">
 </picture>

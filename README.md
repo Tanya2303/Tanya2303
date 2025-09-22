@@ -25,12 +25,12 @@
 
 <!-- about me -->
 ## About Me:
-- 🎓 I'm **Tanya Raikwar**, a 4rd-year Computer Science and Engineering student from Bangalore, passionate about **Frontend Development** **Data Analytics**
+- 🎓 I'm **Tanya Raikwar**, a 4rd-year Computer Science and Engineering student from Bangalore, passionate about **Frontend Development** and **Data Analytics**
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **HTML**, **CSS**, **JavaScript**, **React**  **python** **sql**
-- 📖 Currently exploring: **Data Analytics**, **DSA** 
+- 💻 I use daily: **HTML**, **CSS**, **JavaScript**, **React**,  **Python**, **Sql**
+- 📖 Currently exploring: **Data Analytics**, **DSA**, **React** 
 - 📝 I love simplifying complex tech concepts & explaining them like a story 📚  
-- 💬 Talk to me about frontend design, tech careers,✨ books, or startups  
+- 💬 Talk to me about frontend design, data analytics, tech careers and books✨
 - 👯 Always open to collaborating on **fun web projects or hackathons**    
 
 <!-- Tech skill -->
